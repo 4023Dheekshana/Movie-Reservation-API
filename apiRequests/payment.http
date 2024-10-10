@@ -1,0 +1,2 @@
+POST http://localhost:8080/payment/11 HTTP/1.1
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc3ODIzMTUsInBhc3N3b3JkIjoicHcyIiwidXNlcm5hbWUiOiJSb3NlIn0.e0R6tsQzI0WwA0TP8YcLTMYHWD8bLJCUFkvYNotrZt8

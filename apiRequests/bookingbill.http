@@ -1,0 +1,3 @@
+GET http://localhost:8080/getbooking/11
+Content-Type: application/json
+Authorization:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc3ODIzMTUsInBhc3N3b3JkIjoicHcyIiwidXNlcm5hbWUiOiJSb3NlIn0.e0R6tsQzI0WwA0TP8YcLTMYHWD8bLJCUFkvYNotrZt8

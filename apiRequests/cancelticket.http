@@ -1,0 +1,2 @@
+DELETE http://localhost:8080/cancelticket/7 HTTP/1.1
+Authorization:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjUzNjYzMzIsInBhc3N3b3JkIjoicHcyIiwidXNlcm5hbWUiOiJSb3NlIn0.J01oT391p-Z4ocReh9FzZKE9xTCTT6nUzm6r1nfOoRk

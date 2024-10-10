@@ -1,0 +1,10 @@
+POST  http://localhost:8080/bookmovie
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc3ODIzMTUsInBhc3N3b3JkIjoicHcyIiwidXNlcm5hbWUiOiJSb3NlIn0.e0R6tsQzI0WwA0TP8YcLTMYHWD8bLJCUFkvYNotrZt8
+
+{
+    "user_id": 68768,
+    "movie_id": 2,
+    "seats": 2,
+    "status": "booked"
+}

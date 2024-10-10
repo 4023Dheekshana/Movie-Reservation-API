@@ -1,0 +1,2 @@
+GET http://localhost:8080/availableseats/4 HTTP/1.1
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjUzNTIzNDgsInBhc3N3b3JkIjoicHcyIiwidXNlcm5hbWUiOiJSb3NlIn0.4v_hykel7NLGPTZk2KyiSsIVuBZSDEztFcsDhvfup_4
